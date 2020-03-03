@@ -1,3 +1,4 @@
+'use strict';
 module.exports = (sequelize, DataTypes) => {
     const Book = sequelize.define('Book', {
       title: {
@@ -15,4 +16,3 @@ module.exports = (sequelize, DataTypes) => {
     });
     return Book;
   };
-  

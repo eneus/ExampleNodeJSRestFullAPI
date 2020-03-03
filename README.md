@@ -75,4 +75,4 @@ docker-compose up -d     //in background
 
 ##### Now you can access to you static site:
 
-- MayCMF Server API: http://localhost:8080/
+Example FullREST API link: http://localhost:8080/

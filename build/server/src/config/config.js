@@ -1,13 +1,12 @@
+"use strict";
+
 require('dotenv').config();
 
-
 module.exports = {
-
   // If using onine database
   // development: {
   //   use_env_variable: 'DATABASE_URL'
   // },
-
   development: {
     username: 'books',
     password: 'books',
@@ -16,7 +15,6 @@ module.exports = {
     dialect: 'postgres',
     operatorsAliases: false
   },
-
   test: {
     database: 'book_test',
     username: 'books',
@@ -24,7 +22,6 @@ module.exports = {
     host: '127.0.0.1',
     dialect: 'postgres'
   },
-
   production: {
     database: process.env.DB_NAME,
     username: process.env.DB_USER,
@@ -33,3 +30,4 @@ module.exports = {
     dialect: 'postgres'
   }
 };
+//# sourceMappingURL=config.js.map
