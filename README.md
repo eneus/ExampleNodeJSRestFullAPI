@@ -1,4 +1,4 @@
-# NodeJS Example Restful API 
+# NodeJS Example Restful API  [![Build Status](https://travis-ci.com/eneus/ExampleNodeJSRestFullAPI.svg?branch=master)](https://travis-ci.com/eneus/ExampleNodeJSRestFullAPI)
 :computer: Example Restful API: NodeJS, Express, PostgreSQL, Sequelize, Travis, Mocha, Coveralls and Code Climate.
 
 
