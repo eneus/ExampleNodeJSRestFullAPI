@@ -1,4 +1,4 @@
-# NodeJS Example Restful API  [![Build Status](https://travis-ci.com/eneus/ExampleNodeJSRestFullAPI.svg?branch=master)](https://travis-ci.com/eneus/ExampleNodeJSRestFullAPI)
+# NodeJS Example Restful API  [![Build Status](https://travis-ci.com/eneus/ExampleNodeJSRestFullAPI.svg?branch=master)](https://travis-ci.com/eneus/ExampleNodeJSRestFullAPI) [![Coverage Status](https://coveralls.io/repos/github/eneus/ExampleNodeJSRestFullAPI/badge.svg?branch=master)](https://coveralls.io/github/eneus/ExampleNodeJSRestFullAPI?branch=master) [![Maintainability](https://api.codeclimate.com/v1/badges/f77d924c133d3b4d5db4/maintainability)](https://codeclimate.com/github/eneus/ExampleNodeJSRestFullAPI/maintainability)
 :computer: Example Restful API: NodeJS, Express, PostgreSQL, Sequelize, Travis, Mocha, Coveralls and Code Climate.
 
 
